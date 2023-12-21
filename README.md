@@ -12,6 +12,7 @@ I'm Steven Liu @ github
 🎵 Love K-Pop and Arts
 ```
 ### :man_technologist: Connect with Me :
+-------------------------
 <div id="header" align="left">
   <a href="https://www.linkedin.com/in/steven-liu-73347a221/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
