@@ -5,7 +5,7 @@
 ```
 I'm Steven Liu @ github
 -------------------------
-💻 I am an Entry Level Data Engineer
+💻 I am an aspiring Entry Level Data Engineer
 📚 I have a Bachelors in Computer Science from the INTI International University @ Malaysia
 🌱 Learning about UNIX, Java, Docker and Ansible
 🌟 Main languages: Java, UNIX
